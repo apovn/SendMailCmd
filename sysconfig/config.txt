@@ -1,0 +1,7 @@
+gmailuser:
+gmailpass:
+yahoouser:abc@yahoo.com
+yahoopass:xyz
+totalPersonPerDay:180
+timePerSendMailMin:3
+mailTitle:Xin chào
